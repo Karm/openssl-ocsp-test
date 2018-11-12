@@ -19,7 +19,7 @@ Error setting up accept BIO
 ```
 
 ## Results
-
+[![CircleCI](https://circleci.com/gh/Karm/openssl-ocsp-test/tree/master.svg?style=svg)](https://circleci.com/gh/Karm/openssl-ocsp-test/tree/master)
 |                 | Result              |
 |-----------------|---------------------|
 | openssl-0.9.8zh | :red_circle:        |
