@@ -1,0 +1,7 @@
+.vscode
+serve-file
+c.out
+coverage.html
+debug
+trace.out
+log.log
